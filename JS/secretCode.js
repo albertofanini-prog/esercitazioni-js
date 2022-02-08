@@ -30,5 +30,5 @@ console.log(cap[1]);
 
 //Comunicare all'user la password temporanea
 let pass = document.querySelector('.passw');
-pass.innerHTML=`${studio[1]}${musica[1]}${città[1]}${scarpe[1]}${soccorso[1]}${cap[1]}`
+pass.innerHTML=`${studio[1]}${musica[1]}${città[1]}${scarpe[1]}${soccorso[1]}${cap[1]}`.toUpperCase()
 
