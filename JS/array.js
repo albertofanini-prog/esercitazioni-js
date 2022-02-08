@@ -19,7 +19,8 @@ selectDinos.innerHTML = `Sono stati selezionati: ${dino1}, ${dino3}`*/
 
 //Metodo con arrays
 
-let dinosaurs =  ['T-Rex','Velociraptor', 'Stegosaurus','Triceratopos']
+let dinosaurs =  ['T-Rex','Velociraptor', 'Stegosaurus','Triceratopos'];
+console.log(dinosaurs);
 
 //let selectDinos = document.querySelector('.dinos');
 //selectDinos.innerHTML = `Sono stati selezioni: ${dinosaurs[0]}, ${dinosaurs[3]}.`
@@ -31,4 +32,4 @@ let dinosaurs =  ['T-Rex','Velociraptor', 'Stegosaurus','Triceratopos']
 dinosaurs[0] = 'Tyrannosaurus Rex';
 
 let selectDinos = document.querySelector('.dinos');
-selectDinos.innerHTML = `Sono stati selezioni: ${dinosaurs[0]}, ${dinosaurs[3]}.`
+selectDinos.innerHTML = `Sono stati selezioni: ${dinosaurs[0]}, ${dinosaurs[3]}.`;

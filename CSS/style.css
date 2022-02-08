@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+h1{
+    padding: 35px 0px;
+    font-size: 36px;
+}
+
+div{
+    padding-bottom: 20px;
+}
