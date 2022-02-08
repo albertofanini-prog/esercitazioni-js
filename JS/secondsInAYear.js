@@ -1,4 +1,4 @@
-alert("Benvenuto!")
+//alert("Benvenuto!")
 
 //Calcolare i secondi, minuti, ore
 
