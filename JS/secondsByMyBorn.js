@@ -1,22 +1,22 @@
 //Calcolare quanti secondi sono passati dalla mia nascita
 
 
-//Dichiaro l'anno corrente
+//Dichiarare l'anno corrente
 let thatDate = 2022;
 console.log(thatDate);
 
 
-//Dichiaro l'anno di nascita
+//Dichiarare l'anno di nascita
 let birthYear = 1998;
 console.log(birthYear);
 
 
-//Dichiaro l'età
+//Dichiarare l'età
 let myAge = (thatDate - birthYear);
 console.log(myAge);
 
 
-//Calcolo quanti secondi sono passati dalla mia nascita
+//Calcolare quanti secondi sono passati dalla mia nascita
 let secondsSinceBorn = (secondiInUnAnno * myAge);
 console.log(secondsSinceBorn);
 
